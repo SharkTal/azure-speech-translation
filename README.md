@@ -54,6 +54,12 @@ python speech_translation.py
 
 ## Notes
 
+### Language codes with utf-8
+
+For English, `en` works, `en-US` doesn't
+
+For Chinese, `zh-CN` works, `zh-Hans` doesn't
+
 ### Audio format
 
 So far only wav format is tested, other formates may not work
@@ -64,15 +70,11 @@ Run
 convert_mp3_to_wav.py
 ```
 
-to convert
+** Install `ffmpeg` and `pydub` if necessary
 
-### Language codes with utf-8
-
-For English, `en` works, `en-US` doesn't
-
-For Chinese, `zh-CN` works, `zh-Hans` doesn't
 
 ### More details see: 
 
 https://learn.microsoft.com/en-gb/azure/ai-services/speech-service/get-started-speech-translation?tabs=macos%2Cterminal&pivots=programming-language-python
+
 
