@@ -22,6 +22,11 @@ You need to authenticate your application to access Azure AI services. This arti
 ```Bash
 git clone https://github.com/SharkTal/azure-speech-translation.git
 ```
+## Go to the file path
+
+```Base
+cd Speech_Translation_Azure_AI
+```
 
 ### on macOS
 
