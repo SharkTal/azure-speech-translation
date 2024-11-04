@@ -18,15 +18,21 @@ Get the Speech resource key and region. After your Speech resource is deployed, 
 
 You need to authenticate your application to access Azure AI services. This article shows you how to use environment variables to store your credentials. You can then access the environment variables from your code to authenticate your application. For production, use a more secure way to store and access your credentials.
 
-### on macOS
+### Clone the repo
 
-Bash
+`git clone https://github.com/SharkTal/azure-speech-translation.git`
+
+### on macOS
 
 Edit your .bash_profile file, and add the environment variables:
 
-`export SPEECH_KEY=your-key`
+```Bash
 
-`export SPEECH_REGION=your-region`
+export SPEECH_KEY=your-key
+
+export SPEECH_REGION=your-region
+
+ ```
 
 ### Run this command to install the Speech SDK:
 
