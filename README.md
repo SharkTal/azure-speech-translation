@@ -1,5 +1,4 @@
 # This is a project based on Microsoft AI Service/Speech Service/Quickstart: Recognize and translate speech to text
-More details see: https://learn.microsoft.com/en-gb/azure/ai-services/speech-service/get-started-speech-translation?tabs=macos%2Cterminal&pivots=programming-language-python
 
 ## Prerequisites
 
@@ -67,3 +66,6 @@ to convert
 For English, `en` works, `en-US` doesn't
 
 For Chinese, `zh-CN` works, `zh-Hans` doesn't
+
+### More details see: https://learn.microsoft.com/en-gb/azure/ai-services/speech-service/get-started-speech-translation?tabs=macos%2Cterminal&pivots=programming-language-python
+
