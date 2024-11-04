@@ -20,7 +20,9 @@ You need to authenticate your application to access Azure AI services. This arti
 
 ### Clone the repo
 
-`git clone https://github.com/SharkTal/azure-speech-translation.git`
+```Bash
+git clone https://github.com/SharkTal/azure-speech-translation.git
+```
 
 ### on macOS
 
@@ -36,11 +38,15 @@ export SPEECH_REGION=your-region
 
 ### Run this command to install the Speech SDK:
 
-`pip install azure-cognitiveservices-speech`
+```Bash
+pip install azure-cognitiveservices-speech
+```
 
 ### Run your new console application to start speech translation
 
-`python speech_translation.py`
+```Bash
+python speech_translation.py
+```
 
 ## Notes
 
@@ -50,7 +56,9 @@ So far only wav format is tested, other formates may not work
 
 Run
 
-`convert_mp3_to_wav.py` 
+```Bash
+convert_mp3_to_wav.py
+```
 
 to convert
 
