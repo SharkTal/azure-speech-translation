@@ -1,6 +1,7 @@
 This is a project based on Microsoft AI Service/Speech Service/Quickstart: Recognize and translate speech to text
 More details see: https://learn.microsoft.com/en-gb/azure/ai-services/speech-service/get-started-speech-translation?tabs=macos%2Cterminal&pivots=programming-language-python
-Prerequisites
+
+#1 Prerequisites
 An Azure subscription. You can create one for free.
 Create a Speech resource in the Azure portal.
 Get the Speech resource key and region. After your Speech resource is deployed, select Go to resource to view and manage keys.
