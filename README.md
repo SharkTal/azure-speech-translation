@@ -67,5 +67,7 @@ For English, `en` works, `en-US` doesn't
 
 For Chinese, `zh-CN` works, `zh-Hans` doesn't
 
-### More details see: https://learn.microsoft.com/en-gb/azure/ai-services/speech-service/get-started-speech-translation?tabs=macos%2Cterminal&pivots=programming-language-python
+### More details see: 
+
+https://learn.microsoft.com/en-gb/azure/ai-services/speech-service/get-started-speech-translation?tabs=macos%2Cterminal&pivots=programming-language-python
 
