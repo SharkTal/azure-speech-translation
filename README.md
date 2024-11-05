@@ -1,4 +1,4 @@
-# This is a project based on Microsoft AI Service/Speech Service/Quickstart: Recognize and translate speech to text
+# The project based on Microsoft AI Service/Speech Service/Quickstart: Recognize and translate speech to text
 
 ## Prerequisites
 
