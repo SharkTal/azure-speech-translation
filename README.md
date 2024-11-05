@@ -17,12 +17,13 @@ Get the Speech resource key and region. After your Speech resource is deployed, 
 
 You need to authenticate your application to access Azure AI services. This article shows you how to use environment variables to store your credentials. You can then access the environment variables from your code to authenticate your application. For production, use a more secure way to store and access your credentials.
 
-### Clone the repo
+### Run locally
 
 ```Bash
 git clone https://github.com/SharkTal/azure-speech-translation.git
 ```
-## Go to the file path
+
+### Go to the file path
 
 ```Base
 cd Speech_Translation_Azure_AI
@@ -70,7 +71,13 @@ Run
 convert_mp3_to_wav.py
 ```
 
-** Install `ffmpeg` and `pydub` if necessary
+#### Install `ffmpeg` and `pydub` if necessary
+
+ ```bash
+   brew update
+   brew install ffmpeg
+   brew install pydub
+```
 
 
 ### More details see: 
